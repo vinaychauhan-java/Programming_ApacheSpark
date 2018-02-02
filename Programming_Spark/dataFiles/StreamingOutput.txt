@@ -1,0 +1,48 @@
+Total Lines in RDD : 0
+Window RDD Size :0
+Total Lines in RDD : 2
+Window RDD Size :2
+Total Lines in RDD : 4
+Window RDD Size :6
+Total Lines in RDD : 2
+Window RDD Size :8
+Total Lines in RDD : 2
+Window RDD Size :8
+Total Lines in RDD : 2
+Window RDD Size :6
+Total Lines in RDD : 2
+Window RDD Size :6
+Total Lines in RDD : 6
+Window RDD Size :10
+Total Lines in RDD : 4
+Window RDD Size :12
+Total Lines in RDD : 3
+Window RDD Size :13
+Total Lines in RDD : 3
+Window RDD Size :10
+Total Lines in RDD : 4
+Window RDD Size :10
+Total Lines in RDD : 4
+Window RDD Size :11
+Total Lines in RDD : 2
+Window RDD Size :10
+Total Lines in RDD : 4
+Window RDD Size :10
+Total Lines in RDD : 4
+Window RDD Size :10
+Total Lines in RDD : 3
+Window RDD Size :11
+Total Lines in RDD : 2
+Window RDD Size :9
+Total Lines in RDD : 4
+Window RDD Size :9
+Total Lines in RDD : 3
+Window RDD Size :9
+Total Lines in RDD : 2
+Window RDD Size :9
+Total Lines in RDD : 3
+Window RDD Size :8
+Total Lines in RDD : 4
+Window RDD Size :9
+Total Lines in RDD : 4
+Window RDD Size :11
